@@ -1,12 +1,10 @@
 ---
 name: cross-party-system-analysis
-description: Analyze a political issue to reveal how ostensibly opposing parties serve
-  the same underlying power structure, moving beyond partisan theater to systemic
-  critique.
+description: Analyze a political issue to reveal how ostensibly opposing parties serve the same underlying power structure, moving beyond partisan theater to systemic critique.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - cross-party-system-analysis
 - writing
